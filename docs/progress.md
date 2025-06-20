@@ -29,3 +29,14 @@
 - Using Pomofocus as time tracker
 - Working in 25-min Pomodoro sprints
 - Git used for tracking all dev + docs
+
+## 🔧 Phase 1.1: DevOps Automation
+
+- [x] Initialized local Git repo
+- [x] Pushed code to GitHub
+- [x] Created `push.bat` script to auto-add, commit, and push with timestamp
+- [x] Verified commits reflect in GitHub repo
+
+## ⏱️ Time Log
+
+- Push automation setup: 1 min 20 seconds (confirmed functional)
