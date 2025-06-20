@@ -1,12 +1,22 @@
-# React + Vite
+# Alexive Focus – Pomodoro Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, branded Pomodoro web app built in React + Vite.
 
-Currently, two official plugins are available:
+🎯 **Purpose**  
+To showcase dev skill, provide real user value, and serve as a lead-gen magnet on the Alexive website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Built With:
 
-## Expanding the ESLint configuration
+- React + Vite
+- Functional components
+- Custom timer logic
+- GitHub-based CI workflow (manual)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚧 Roadmap:
+
+- Break timer cycle
+- Spotify focus playlist integration
+- Light analytics + Netlify deployment
+
+📂 Docs:  
+See `/docs/progress.md` for detailed changelog + sprint log.
